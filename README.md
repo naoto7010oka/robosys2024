@@ -23,7 +23,7 @@ pip install -r requirements.txt```
 
 ##使い方
 
-```python333 count.py ```
+```python3 count.py ```
 
 ##参考文献
 文字の小文字変換のコマンド
