@@ -1,7 +1,6 @@
 #!/user/bin/python3
 # SPDX-FileCopyrightText: 2024 Oka Naoto
-from collections 
-import Counter
+from collections import Counter
 import string
 import sys
 def count_alphabets(text):
@@ -15,7 +14,7 @@ def count_alphabets(text):
     return sorted_counts
 
 
-input_text = sys.stdin.resd()
+input_text = sys.stdin.read()
 result = count_alphabets(input_text)
 
 for letter, count in result.items():
