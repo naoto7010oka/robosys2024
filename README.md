@@ -43,6 +43,10 @@ https://www.javadrive.jp/python/string/index12.html
 https://note.nkmk.me/python-str-count/
 * アルファベット順に並べる
 https://www.delftstack.com/ja/howto/python/sort-list-alphabetically/  
+* 授業スライド5
+https://ryuichiueda.github.io/slides_marp/robosys2024/lesson5.html
+* 授業スライド7
+https://ryuichiueda.github.io/slides_marp/robosys2024/lesson5.html
 # ライセンスや著作権  
 このソフトウェアパッケージは、3条項BSDライセンスの下、再分布および使用が許可されています。  
  ©2024 oka naoto
