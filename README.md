@@ -8,9 +8,9 @@ countコマンド
 以下の手順でプロジェクトをローカル環境にインストールしてください。   
 ```bash
 
-git clone https://github.com/naoto7010oka/robosys2024.git  
+$git clone https://github.com/naoto7010oka/robosys2024.git  
 
-cd robosys2024/  
+$cd robosys2024/  
 
 ```
 # 使用例  
