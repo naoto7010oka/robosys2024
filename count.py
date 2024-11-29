@@ -6,8 +6,7 @@ import string
 def count_alphabets(text):
 
     text = text.lower()
-    filtered_text = ''.join(char for char in text if char in string.ascii_lowercase)
-    
+    filtered_text = ''.join(char for char in text if char in string.ascii_lowercase) 
 
     counts = Counter(filtered_text)
     
