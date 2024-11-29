@@ -17,7 +17,7 @@ $python3 count.py
 文章を入力してください:
 ```
 # 実行結果  
-countと入力した場合
+countと入力した場合  
 c:1 n:1 o:1 t:1 u:1
 # 必要なソフトウェア  
 - python  
