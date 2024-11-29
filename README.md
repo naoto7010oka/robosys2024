@@ -1,5 +1,6 @@
 # robosys2024
 countコマンド  
+[![test](https://github.com/naoto7010oka/robosys2024/actions/workflows/test.yml/badge.svg)](https://github.com/naoto7010oka/robosys2024/actions/workflows/test.yml)  
 # プログラムの内容  
 はじめに大文字のアルファベットを小文字にしそしてアルファベットのみを抽出します。その後各アルファベットをカウントしアルファベット順に並べ結果を表示します。  
 # インストール方法  
