@@ -18,5 +18,5 @@ input_text = sys.stdin.read()
 result = count_alphabets(input_text)
 
 for letter, count in result.items():
-    print(f"{letter}: {count}")
-
+    if count > 0:
+        print(f"{letter}: {count}")
