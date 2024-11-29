@@ -3,7 +3,7 @@
 from collections 
 import Counter
 import string
-
+import sys
 def count_alphabets(text):
     text = text.lower()
     filtered_text = ''.join(char for char in text if char in string.ascii_lowercase) 
@@ -14,8 +14,9 @@ def count_alphabets(text):
     
     return sorted_counts
 
-text = input("文章を入力してね: ")
-result = count_alphabets(text)
+
+input_text = sys.stdin.resd()
+result = count_alphabets(input_text)
 
 for letter, count in result.items():
     print(f"{letter}: {count}")
