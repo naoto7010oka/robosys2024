@@ -36,15 +36,13 @@ c:1 n:1 o:1 t:1 u:1
 Ubuntu 22.04
 # 作成者  
 23C1030 未来ロボティクス学科所属
-# 参考文献
-```bash  
+# 参考文献 
 * 文字の小文字変換のコマンド
 https://www.javadrive.jp/python/string/index12.html
 * 文字の出現頻度のカウント
 https://note.nkmk.me/python-str-count/
 * アルファベット順に並べる
-https://www.delftstack.com/ja/howto/python/sort-list-alphabetically/
-```
+https://www.delftstack.com/ja/howto/python/sort-list-alphabetically/  
 # ライセンスや著作権  
 このソフトウェアパッケージは、3条項BSDライセンスの下、再分布および使用が許可されています。  
  ©2024 oka naoto
