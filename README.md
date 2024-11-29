@@ -13,6 +13,14 @@ $git clone https://github.com/naoto7010oka/robosys2024.git
 $cd robosys2024/  
 
 ```
+# 使用前のテスト例  
+$./testcount.py  
+入力: Hello World!  
+ok  
+入力: 123 ABC abc!  
+ok  
+入力: あいうえお  
+ok  
 # 使用例  
 ```bash
 $python3 count.py  
