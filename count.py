@@ -1,10 +1,10 @@
 #!/user/bin/python3
 # SPDX-FileCopyrightText: 2024 Oka Naoto
-from collections import Counter
+from collections 
+import Counter
 import string
 
 def count_alphabets(text):
-
     text = text.lower()
     filtered_text = ''.join(char for char in text if char in string.ascii_lowercase) 
 
@@ -14,7 +14,7 @@ def count_alphabets(text):
     
     return sorted_counts
 
-text = input("文章を入力してください: ")
+text = input("文章を入力してね: ")
 result = count_alphabets(text)
 
 for letter, count in result.items():
