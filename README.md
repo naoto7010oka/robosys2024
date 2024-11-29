@@ -1,5 +1,5 @@
 # robosys2024
-countコマンド  
+COUNTコマンド  
 [![test](https://github.com/naoto7010oka/robosys2024/actions/workflows/test.yml/badge.svg)](https://github.com/naoto7010oka/robosys2024/actions/workflows/test.yml)  
 標準入力された文から各アルファベットがそれぞれ何個あるのかカウントする。  
 # プログラムの内容  
@@ -46,7 +46,7 @@ https://www.delftstack.com/ja/howto/python/sort-list-alphabetically/
 https://ryuichiueda.github.io/slides_marp/robosys2024/lesson5.html
 * 授業スライド7
 https://ryuichiueda.github.io/slides_marp/robosys2024/lesson5.html
-# ライセンスや著作権  
+# ライセンスや著作権について  
 このソフトウェアパッケージは、3条項BSDライセンスの下、再分布および使用が許可されています。  
 -このパッケージのコードは下記のスライド　(CC-BY-SA 4.0 by Ryuichi Ueda)のものを、本人の許可を得て自身の著作としたものです。  
 * https://github.com/ryuichiueda/my_slides/tree/master/robosys_2024  
